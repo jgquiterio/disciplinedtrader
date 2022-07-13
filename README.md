@@ -1,0 +1,2 @@
+# disciplinedtrader
+Blog em wordpress
